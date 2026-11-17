@@ -1,0 +1,14 @@
+**/node_modules/
+**/dist/
+**/target/
+**/data/
+.env
+.DS_Store
+*.log
+.runtime/
+**/.vercel/
+.env.*
+!.env.example
+.vscode/
+*.pem
+*.key
